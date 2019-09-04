@@ -2,11 +2,11 @@
 #include <iostream>
 
 using std::cout;
-using std::end1;
+using std::endl;
 
 int main()
 {
-  cout<<"Hi."<<end1;
+  cout<<"Hi."<<endl;
 
   return 0;
 }
